@@ -1,0 +1,105 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2019-08-20T18:47:07.147Z",
+    "end": "2019-08-20T18:47:16.286Z",
+    "duration": 9139,
+    "testsRegistered": 1,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "584784c8-2ffc-4ab1-97c5-ea347a483b58",
+      "title": "",
+      "fullFile": "",
+      "file": "",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "e2451c5a-1dda-43ef-adbc-d50c1357a900",
+          "title": "Linked in tests",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "go to Linkedin",
+              "fullTitle": "Linked in tests go to Linkedin",
+              "timedOut": null,
+              "duration": 7497,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.visit('https://linkedin.com/login');\ncy.get('#username').clear();\ncy.get('#username').type('ranbir.singh.523@gmail.com');\ncy.get('#password').clear();\ncy.get('#password').type('Waheguru@999');\ncy.get('.btn__primary--large').click();\ncy.get('.search-global-typeahead__input').type('smilona bhuyan{enter}');\ncy.get('.name').click();\ncy.wait(999);\ncy.contains('Message').click();\nfor (var i = 0; i < 1; i++) {\n  cy.get('.msg-form__contenteditable > p').type(\"😋\");\n  cy.get('.msg-form__send-button').click();\n}",
+              "err": {},
+              "uuid": "69d84cb1-de70-4dcf-8c84-b6e0632999ee",
+              "parentUUID": "e2451c5a-1dda-43ef-adbc-d50c1357a900",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "69d84cb1-de70-4dcf-8c84-b6e0632999ee"
+          ],
+          "failures": [],
+          "pending": [],
+          "skipped": [],
+          "duration": 7497,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "5.2.0"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": false,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false
+      },
+      "version": "4.1.0"
+    },
+    "marge": {
+      "options": {
+        "reportDir": "cypress/report/mochawesome-report",
+        "overwrite": false,
+        "html": false,
+        "json": true,
+        "timestamp": "mmddyyyy_HHMMss"
+      },
+      "version": "4.0.1"
+    }
+  }
+}
