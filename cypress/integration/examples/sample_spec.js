@@ -50,11 +50,11 @@ context('Linked in tests', () => {
     //     cy.visit('https://linkedin.com/login');
     //
     //     cy.get('#username').clear();
-    //     cy.get('#username').type('ranbir.singh.523@gmail.com');
+    //     cy.get('#username').type('***@gmail.com');
     //     cy.get('#password').clear();
-    //     cy.get('#password').type('Waheguru@999');
+    //     cy.get('#password').type('***');
     //     cy.get('.btn__primary--large').click();
-    //     cy.get('.search-global-typeahead__input').type('Smilona bhuyan{enter}')
+    //     cy.get('.search-global-typeahead__input').type('***enter}')
     //     cy.get('.name').click()
     //     cy.wait(999);
     //     cy.contains('Message').click();
