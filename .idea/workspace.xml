@@ -2,7 +2,113 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be87ada2-8432-48cf-bc14-66f7257bf26a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cypress/integration/examples/sample_spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/sample_spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/.mailmap" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/.mailmap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/AUTHORS" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/AUTHORS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/README.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/README.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-access.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-access.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-adduser.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-adduser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-audit.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-audit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-bin.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-bin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-bugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-bugs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-build.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-build.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-bundle.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-bundle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-cache.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-cache.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-ci.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-ci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-completion.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-completion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-config.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-config.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-dedupe.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-dedupe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-deprecate.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-deprecate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-dist-tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-dist-tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-docs.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-docs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-doctor.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-doctor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-explore.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-explore.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-help-search.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-help-search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-help.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-help.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-hook.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-hook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-init.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-init.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-install-ci-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-install-ci-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-install-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-install-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-install.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-install.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-link.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-logout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-ls.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-ls.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-org.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-org.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-outdated.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-outdated.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-owner.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-owner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-pack.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-pack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-ping.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-ping.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-prefix.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-prefix.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-prune.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-prune.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-publish.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-publish.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-rebuild.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-rebuild.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-repo.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-repo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-restart.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-restart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-root.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-root.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-run-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-run-script.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-search.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-shrinkwrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-shrinkwrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-star.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-star.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-stars.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-stars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-start.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-start.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-stop.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-stop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-team.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-token.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-token.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-uninstall.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-uninstall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-unpublish.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-unpublish.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-update.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-version.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-version.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-view.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-whoami.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm-whoami.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/cli/npm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-folders.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-folders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-global.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-global.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-json.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-json.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-package-locks.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-package-locks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-shrinkwrap.json.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npm-shrinkwrap.json.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npmrc.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/npmrc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/package-lock.json.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/package-lock.json.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/files/package.json.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/files/package.json.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-coding-style.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-coding-style.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-config.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-config.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-developers.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-developers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-disputes.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-disputes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-orgs.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-orgs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-registry.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-registry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-scope.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-scope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/npm-scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/removing-npm.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/removing-npm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/semver.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/html/doc/misc/semver.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/lib/explore.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/lib/explore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/lib/utils/escape-arg.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/lib/utils/escape-arg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/lib/utils/escape-exec-path.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/lib/utils/escape-exec-path.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-ls.1" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm-ls.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/man/man1/npm.1" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/man/man1/npm.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/lib/to-batch-syntax.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/lib/to-batch-syntax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/tap-snapshots/test-basic.js-TAP.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/test.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/test/00-setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/test/basic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/test/to-batch-syntax-tests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/cmd-shim/test/zz-cleanup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-package-arg/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-package-arg/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-package-arg/npa.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-package-arg/npa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-package-arg/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/node_modules/npm-package-arg/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/npm/scripts/update-authors.sh" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/npm/scripts/update-authors.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,11 +121,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cypress/integration/examples/sample_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+            <state relative-caret-position="421">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              <folding>
+                <marker date="1566506834111" expanded="true" signature="1032:1450" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cypress/integration/examples/hello.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cypress/report/mochawesome-report/mochawesome_08202019_145147.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -42,10 +169,11 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/cypress.json" />
         <option value="$PROJECT_DIR$/cypress/integration/examples/sample_spec.js" />
+        <option value="$PROJECT_DIR$/cypress/integration/examples/artillery.yml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="157" />
     <option name="y" value="63" />
     <option name="width" value="1400" />
@@ -74,6 +202,13 @@
               <item name="cypressTest" type="462c0819:PsiDirectoryNode" />
               <item name="cypress" type="462c0819:PsiDirectoryNode" />
               <item name="integration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cypressTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cypressTest" type="462c0819:PsiDirectoryNode" />
+              <item name="cypress" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -118,12 +253,12 @@
       <updated>1564510719591</updated>
       <workItem from="1564510720745" duration="9269000" />
       <workItem from="1566171742266" duration="9277000" />
-      <workItem from="1566327036645" duration="3550000" />
+      <workItem from="1566327036645" duration="6611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22096000" />
+    <option name="totallyTimeSpent" value="25157000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -135,7 +270,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19951779" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -151,7 +287,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32960895" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3132653" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31657755" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -165,13 +301,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cypress/report/mochawesome-report/mochawesome_08202019_145147.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -213,8 +342,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cypress/integration/examples/sample_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        <state relative-caret-position="421">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <marker date="1566506834111" expanded="true" signature="1032:1450" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/report/mochawesome-report/mochawesome_08202019_145147.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/integration/examples/hello.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
