@@ -4,12 +4,13 @@
   "description": "Sample test",
   "main": "index.js",
   "dependencies": {
-    "npm": "^6.11.2"
+    "npm": "^6.14.5"
   },
   "devDependencies": {
     "@types/mocha": "^5.2.0",
     "artillery": "^1.6.0-28",
-    "cypress": "^3.4.1",
+    "chance": "^1.1.0",
+    "cypress": "^4.7.0",
     "mocha": "^5.2.0",
     "mochawesome": "^4.1.0",
     "mochawesome-merge": "^2.0.1",
