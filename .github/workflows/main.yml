@@ -32,4 +32,3 @@ jobs:
         browser: firefox
     - run: npm ci
     - run: npm run build --if-present
-    - run: npm start
