@@ -63,7 +63,7 @@ context('Cypress.Cookies', () => {
     Cypress.Cookies.preserveOnce('lastCookie')
   })
 
-  it('.defaults() - set defaults for all cookies', () => {
+  it.skip('.defaults() - set defaults for all cookies', () => {
     // now any cookie with the name 'session_id' will
     // not be cleared before each new test runs
     Cypress.Cookies.defaults({
@@ -106,7 +106,7 @@ context('Cypress.config()', () => {
     cy.visit('https://example.cypress.io/cypress-api')
   })
 
-  it('Get and set configuration options', () => {
+  it.skip('Get and set configuration options', () => {
     // https://on.cypress.io/config
     let myConfig = Cypress.config()
 
@@ -214,7 +214,7 @@ context('Cypress.spec', () => {
     cy.visit('https://example.cypress.io/cypress-api')
   })
 
-  it('Get current spec information', () => {
+  it.skip('Get current spec information', () => {
     // https://on.cypress.io/spec
     // wrap the object so we can inspect it easily by clicking in the command log
     cy.wrap(Cypress.spec).should('have.keys', ['name', 'relative', 'absolute'])
