@@ -16,8 +16,9 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [18.12.1]
+        containers: [1, 2, 3]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+        
 
     steps:
     - name: Checkout
@@ -31,5 +32,7 @@ jobs:
         cache: 'npm'
         browser: chrome
         headed: true
+        parallel: true
+        group: 'Actions example'
     - run: npm ci
     - run: npm run build --if-present
