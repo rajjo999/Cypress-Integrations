@@ -1,3 +1,5 @@
+![Screen Shot 2022-11-27 at 10 23 12 PM](https://user-images.githubusercontent.com/11544647/205091029-cdd1a82e-7fe6-49e5-b356-2ec78ad10d1e.png)
+
 # cypress-io/github-action [![renovate-app badge][renovate-badge]][renovate-app] [![Action status](https://github.com/cypress-io/github-action/workflows/main/badge.svg?branch=master)](https://github.com/cypress-io/github-action/actions)
 
 > [GitHub Action](https://help.github.com/en/actions) for running [Cypress](https://www.cypress.io) end-to-end tests. Includes NPM installation, custom caching and lots of configuration options.
